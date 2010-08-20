@@ -1,4 +1,6 @@
-# Information about this fork
+# Information about this fork (kuehnert's)
+
+Tweaks to use formtastic, the :back method, updated controller to use respond_with
 
 This for is no longer following the normal scaffolding layout of Rails.
 It uses I18n backend for headings, model attributes names etc in it's views.
